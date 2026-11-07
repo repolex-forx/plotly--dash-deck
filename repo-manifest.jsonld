@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/plotly/dash-deck/commit/a4821cb46f7b2cef718f3655ae8b2ef1e9064938",
       "git:hexsha": "a4821cb46f7b2cef718f3655ae8b2ef1e9064938",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/plotly/dash-deck/commit/27a2b9cbcea59ff013f4bf0158c342c045729289",
