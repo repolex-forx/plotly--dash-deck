@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-deck",
+  "versions": [
+    {
+      "commit": "a4821cb46f7b2cef718f3655ae8b2ef1e9064938",
+      "tag": "",
+      "parsed_at": "2026-11-07T01:36:50.322847+00:00"
+    }
+  ]
+}
